@@ -1,0 +1,29 @@
+{
+  "title": "The Photocopy Chain: The Mammal Brain-Mass Canon Disagrees With Itself on 30% of Shared Species, and Three-Quarters of Its Most-Cited Values Cannot Be Traced to a Measurement",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Comparative neuroscience treats three compilations — Burger et al. (2019), Smaers et al. (2021) and Tsuboi et al. (2018) — as the primary record of mammal brain mass. We pre-registered two tests of that record before downloading any data. Test A diffed the three canons against each other: of the 1,467 species present in at least two canons, 447 (30.47%) disagree by more than 5% on brain mass, and 19.3% disagree by more than 10% — against a registered kill threshold of 3%. Test B traced a pre-registered random sample of 60 Burger values to their sources: only 15 (25.0%) terminate in a work whose authors themselves measured brains or endocranial volumes; the remaining 75% terminate in earlier compilations — against a registered kill threshold of 85% traceable. Both legs fail their kill conditions decisively. Burger's 1,552 values cite only 30 distinct first sources, and five compilations supply 82.6% of them. The canon's worst errors — an owl monkey at 6.7× its measured brain mass, a laboratory rat at 3.4× — are traceable, but to mislabelled or unreplicated specimen records from 1908 and 1940 that no later compiler re-checked. No canon is the accurate one: each dissents from the other two, and one carries a clade-shaped divergence across the pinnipeds. The mammal brain-mass canon is a photocopy chain, and any analysis built on a single canon inherits whichever copy it happened to open. Keywords: brain mass; comparative neuroanatomy; data provenance; Burger et al. 2019; Smaers et al. 2021; Tsuboi et al. 2018; pre-registration; measurement",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "brain mass",
+    "data provenance",
+    "citation chain",
+    "comparative neuroanatomy"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/photocopy-chain",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
